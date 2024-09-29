@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "93de",
+      "username": "jason1",
+      "password": "12345",
+      "name": "Jason",
+      "age": "22",
+      "email": "jason@gmail.com",
+      "averageScore": "50.00",
+      "physicalActivity": 50,
+      "sleepActivity": 50,
+      "dietQuality": 50,
+      "yesNoAnswer": "Yes"
+    }
+  ]
+}
